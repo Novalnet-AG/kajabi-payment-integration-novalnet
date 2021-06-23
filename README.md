@@ -30,10 +30,10 @@ After successful configuration you can test the checkout process with our demo t
 * No PCI DSS certification required for the merchants, we have it for you
 
 ## Prerequisites
-To accept and process Novalnet payments in Shopify, you need a Novalnet merchant account. You will get one [here](https://www.novalnet.de/kontakt/sales). 
+To accept and process Novalnet payments in Kajabi, you need a Novalnet merchant account. You will get one [here](https://www.novalnet.de/kontakt/sales). 
 
 ## Languages Supported
-Novalnet payment integration for Shopify is available in English and German languages. Live technical support available for customers in various languages that include:
+Novalnet payment integration for Kajabi is available in English and German languages. Live technical support available for customers in various languages that include:
 
 * English
 * German
