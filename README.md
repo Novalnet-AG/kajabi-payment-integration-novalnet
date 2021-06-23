@@ -2,21 +2,6 @@
 
 The Kajabi payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences - thus simplifying payment processing with a single integration.  
 
-## Offer Creation
-The Offer creation process will help you to set up offers and customize your checkout process.
-
-#### Step 1: To create an offer, Click Offers under the menu Products. 
-
-#### Step 2: Click on the + Add New Offer button on top right corner of the page.
-
-#### Step 3: Fill in the necessary information in the required fields (Title, Product, Price, etc.), then click on the Save button to save the changes 
-
-After creating the new offer, you can edit the details of the new offer as well as the design
-
-## Important Note 
-- While creating offers, Price option should be set as Free and Price text override value should be defined as per your individual price requirements.
-- Created offers should always be in the status “Published”.
-
 ## Demo
 After successful configuration you can test the checkout process with our demo test credentials, which can be found on the Novalnet [developer portal](https://developer.novalnet.de/testing). 
 
