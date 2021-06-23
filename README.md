@@ -2,8 +2,8 @@
 
 The Kajabi payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences - thus simplifying payment processing with a single integration.  
 
-## Demo
-After successful configuration you can test the checkout process with our demo test credentials, which can be found on the Novalnet [developer portal](https://developer.novalnet.de/testing). 
+## Documentation
+A detailed installation guide including all the Kajabi payment integration features is included in the package.
 
 ## Secured integration
 * Easy integration with minimal coding 
@@ -16,6 +16,9 @@ After successful configuration you can test the checkout process with our demo t
 
 ## Prerequisites
 To accept and process Novalnet payments in Kajabi, you need a Novalnet merchant account. You will get one [here](https://www.novalnet.de/kontakt/sales). 
+
+## Demo
+After successful configuration you can test the checkout process with our demo test credentials, which can be found on the Novalnet [developer portal](https://developer.novalnet.de/testing). 
 
 ## Languages Supported
 Novalnet payment integration for Kajabi is available in English and German languages. Live technical support available for customers in various languages that include:
@@ -33,9 +36,6 @@ Novalnet payment integration for Kajabi is available in English and German langu
 
 ## Integrated Payments
 [See here](https://www.novalnet.de/modul/kajabi) all the supported payment methods for the Novalnet payment integration. Novalnet offers full-fledged sandbox environment for testing payments with sample test credentials. We update our system in line with the growing market trends and shop system updates.
-
-## Documentation
-A detailed installation guide including all the Kajabi payment integration features is included in the package.
 
 ## License
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
