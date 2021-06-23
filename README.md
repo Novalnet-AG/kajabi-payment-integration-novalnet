@@ -7,9 +7,9 @@ The Offer creation process will help you to set up offers and customize your che
 
 #### Step 1: To create an offer, Click Offers under the menu Products. 
 
-### Step 2: Click on the + Add New Offer button on top right corner of the page.
+#### Step 2: Click on the + Add New Offer button on top right corner of the page.
 
-### Step 3: Fill in the necessary information in the required fields (Title, Product, Price, etc.), then click on the Save button to save the changes 
+#### Step 3: Fill in the necessary information in the required fields (Title, Product, Price, etc.), then click on the Save button to save the changes 
 
 After creating the new offer, you can edit the details of the new offer as well as the design
 
