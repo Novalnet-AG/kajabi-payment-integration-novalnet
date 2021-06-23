@@ -1,19 +1,21 @@
 # KAJABI PAYMENT INTEGRATION BY NOVALNET  
 
-The Kajabi payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences – thus simplifying payment processing with a single integration.  
+The Kajabi payment integration from Novalnet allows you to accept payments worldwide, fully automate your payment processing and offer seamless payment experiences - thus simplifying payment processing with a single integration.  
 
-## Installation and Configuration
+## Offer Creation
+The Offer creation process will help you to set up offers and customize your checkout process.
 
-### Step 1: App Installation
-Click the installation link included in the Novalnet Shopify payment integration package.
+### Step 1: To create an offer, Click Offers under the menu Products. 
 
-### Step 2: Custom Payment Method Setup
-Choose your preferred payment methods through Settings &#8594; Payment Providers.
+### Step 2: Click on the + Add New Offer button on top right corner of the page.
 
-### Step 3: Add Custom Script 
-Add the custom script in the Checkout page. Navigate to Settings &#8594; Checkout process. 
+### Step 3: Fill in the necessary information in the required fields (Title, Product, Price, etc.), then click on the Save button to save the changes 
 
-Refer our installation docs for specifics on how to add the custom script during the checkout process.
+After creating the new offer, you can edit the details of the new offer as well as the design
+
+## Important Note 
+- While creating offers, Price option should be set as Free and Price text override value should be defined as per your individual price requirements.
+- Created offers should always be in the status “Published”.
 
 ## Demo
 After successful configuration you can test the checkout process with our demo test credentials, which can be found on the Novalnet [developer portal](https://developer.novalnet.de/testing). 
@@ -45,10 +47,10 @@ Novalnet payment integration for Shopify is available in English and German lang
 * Tamil
 
 ## Integrated Payments
-[See here](https://www.novalnet.com/modul/shopify) all the supported payment methods for the Novalnet payment integration. Novalnet offers full-fledged sandbox environment for testing payments with sample test credentials. We update our system in line with the growing market trends and shop system updates.
+[See here](https://www.novalnet.de/modul/kajabi) all the supported payment methods for the Novalnet payment integration. Novalnet offers full-fledged sandbox environment for testing payments with sample test credentials. We update our system in line with the growing market trends and shop system updates.
 
 ## Documentation
-A detailed installation guide including all the Shopify payment integration features is included in the package.
+A detailed installation guide including all the Kajabi payment integration features is included in the package.
 
 ## License
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
